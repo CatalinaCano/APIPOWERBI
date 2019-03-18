@@ -1,0 +1,11 @@
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\bin\Debug\netcoreapp2.2\TestPowerBI.deps.json
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\bin\Debug\netcoreapp2.2\TestPowerBI.runtimeconfig.json
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\bin\Debug\netcoreapp2.2\TestPowerBI.runtimeconfig.dev.json
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\bin\Debug\netcoreapp2.2\TestPowerBI.dll
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\obj\Debug\netcoreapp2.2\TestPowerBI.csprojAssemblyReference.cache
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\obj\Debug\netcoreapp2.2\TestPowerBI.csproj.CoreCompileInputs.cache
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\obj\Debug\netcoreapp2.2\TestPowerBI.RazorAssemblyInfo.cache
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\obj\Debug\netcoreapp2.2\TestPowerBI.RazorAssemblyInfo.cs
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\obj\Debug\netcoreapp2.2\TestPowerBI.AssemblyInfoInputs.cache
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\obj\Debug\netcoreapp2.2\TestPowerBI.AssemblyInfo.cs
+C:\Users\dcano\source\repos\TestPowerBI\TestPowerBI\obj\Debug\netcoreapp2.2\TestPowerBI.RazorTargetAssemblyInfo.cache
